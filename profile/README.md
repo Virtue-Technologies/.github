@@ -1,106 +1,155 @@
 <div align="center">
 
-<img src="./assets/virtue-github-header.svg" alt="Virtue Technologies - Technology that empowers education" width="100%">
+# Virtue Technologies
+
+### More secure systems. Fewer avoidable disruptions. More time for education.
+
+**We help schools, Multi Academy Trusts, colleges and universities reduce technology risk and give their teams systems they can depend on.**
+
+[![Website](https://img.shields.io/badge/Visit_our_website-virtuetechnologies.co.uk-173F5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.virtuetechnologies.co.uk/)
+[![LinkedIn](https://img.shields.io/badge/Follow_us-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/virtue-technologies-limited/)
+[![Contact](https://img.shields.io/badge/Discuss_your_priorities-Contact_Virtue-2C7A7B?style=for-the-badge&logo=minutemailer&logoColor=white)](https://www.virtuetechnologies.co.uk/contact/)
 
 <br>
 
-[**Website**](https://www.virtuetechnologies.co.uk/) &nbsp;•&nbsp;
-[**Solutions**](https://www.virtuetechnologies.co.uk/solutions/) &nbsp;•&nbsp;
-[**News & Insights**](https://www.virtuetechnologies.co.uk/news-updates/) &nbsp;•&nbsp;
-[**LinkedIn**](https://www.linkedin.com/company/virtue-technologies-limited/) &nbsp;•&nbsp;
-[**Contact**](https://www.virtuetechnologies.co.uk/contact/)
+![Established](https://img.shields.io/badge/Supporting_education_since-2006-334155?style=flat-square)
+![Sector](https://img.shields.io/badge/Focus-Education_Technology-334155?style=flat-square)
+![Location](https://img.shields.io/badge/Serving-Organisations_across_the_UK-334155?style=flat-square)
 
 </div>
 
 ---
 
-## Your ICT partner for bespoke solutions in education
+## Technology should support education - not interrupt it
 
-Virtue Technologies is an education-focused IT company working collaboratively with schools to deliver secure, connected and fit-for-purpose technology solutions.
+Education IT teams already have enough competing demands.
 
-Founded in 2006, we support Primary and Secondary Schools, Multi Academy Trusts, Further Education Colleges and Universities across the UK. We combine dedicated technical expertise, in-house service specialists and long-term partnership to help education organisations improve teaching, learning and day-to-day operations through technology.
+They do not need more systems that create additional work, security concerns or uncertainty. They need technology that remains dependable, protects the organisation and helps staff get on with teaching, supporting students and running their services.
+
+That is what our technology, engineering and support work is designed to achieve.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Connectivity Platforms
+### Keep people connected
 
-Internet, wireless and network services designed for resilient, secure education environments.
+Internet, wide area networking and wireless infrastructure designed for demanding education environments.
 
-</td>
-<td width="33%" valign="top">
-
-### Productivity Tools
-
-Microsoft 365, devices, software licensing, audio visual, digital signage and visitor management.
+**So staff and students can access the services they need without the network becoming the daily problem.**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Solution Products
+### Protect the organisation
 
-Cloud backup, disaster recovery, hosted services, infrastructure, storage and virtualisation.
+Endpoint, identity and data protection supported by monitoring, cyber resilience and structured response.
+
+**So risks can be identified and addressed before they become larger operational incidents.**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="1">
+<td width="50%" valign="top">
 
-### Cyber Security
+### Make recovery possible
 
-Practical protection, assessment, monitoring and response built around the needs of education.
+Servers, storage, virtualisation, cloud backup, air gap and disaster recovery services.
+
+**So an outage, failure or cyber incident does not have to become a prolonged loss of essential services.**
 
 </td>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
-### Enhanced Support Services
+### Make technology easier to use
 
-Installation, support, training and specialist services shaped around individual schools and Trusts.
+Microsoft 365, devices, classroom technology, audio visual systems, digital signage and device management.
+
+**So staff spend less time working around technology and more time using it productively.**
 
 </td>
 </tr>
 </table>
 
----
-
-## What makes us tick
-
-<table>
-<tr>
-<td width="20%" align="center" valign="top"><strong>Relationships</strong><br><sub>Understanding needs and delivering the best outcomes together.</sub></td>
-<td width="20%" align="center" valign="top"><strong>Trust</strong><br><sub>Transparent, open communication at the centre of everything we do.</sub></td>
-<td width="20%" align="center" valign="top"><strong>Opportunities</strong><br><sub>Creating meaningful opportunities for people and organisations to grow.</sub></td>
-<td width="20%" align="center" valign="top"><strong>Ownership</strong><br><sub>Embracing challenges and seeing positive outcomes through.</sub></td>
-<td width="20%" align="center" valign="top"><strong>Positive Change</strong><br><sub>Helping schools make changes that have a genuine impact on learning.</sub></td>
-</tr>
-</table>
+These services are supported by managed and on-site technical expertise, project delivery, training, lifecycle support and technology services for Multi Academy Trusts.
 
 ---
 
-## Engineering at Virtue
+## Why Virtue engineers software
 
-This GitHub organisation is home to software, automation, integrations and operational tooling developed by Virtue Technologies.
+Some education technology problems cannot be solved properly by buying another off-the-shelf product.
 
-Our engineering work is guided by a few clear principles:
+They require software, integrations and automation built around the way technical teams actually work.
 
-- **Secure by design** - protecting customer data, identities and tenant boundaries from the outset
-- **Useful in the real world** - solving genuine operational problems for education and technical teams
-- **Reliable in production** - observable, maintainable and designed for long-term service
-- **Clear and accountable** - documented decisions, controlled change and visible outcomes
-- **Built for education** - shaped around the realities of schools, colleges and Multi Academy Trusts
+This GitHub organisation is home to the engineering that supports those needs, including:
 
-Many repositories support customer environments, managed services and commercial platforms, so they remain private by design. Public resources will appear here where they offer genuine value to the wider education and technology communities.
+* operational tooling that removes repetitive technical work;
+* integrations that help systems work together;
+* automation that makes delivery more consistent;
+* software supporting customer environments and managed services;
+* reusable resources that can help the wider education and technology communities.
+
+Much of this work supports customer environments and commercial platforms, so many repositories are private by design. Public projects will appear here when sharing them provides genuine practical value.
+
+---
+
+## What good engineering means to us
+
+Our work is judged by what happens when it reaches a real environment.
+
+### Does it solve a real problem?
+
+We build around the operational outcome required - not technology for its own sake.
+
+### Is it secure from the beginning?
+
+Data protection, identities, access and tenant boundaries are considered during design rather than added afterwards.
+
+### Will it remain supportable?
+
+Our work should be observable, documented and maintainable by the people responsible for it.
+
+### Can it be trusted in production?
+
+Changes are controlled, decisions are recorded and reliability matters beyond the initial release.
+
+### Does it fit education?
+
+Solutions must reflect the budgets, responsibilities, safeguarding expectations and operational realities of education organisations.
+
+---
+
+## How we work
+
+Virtue Technologies has supported the education sector since 2006.
+
+We build long-term relationships through honest advice, dependable delivery, clear ownership and a shared focus on making things better afterwards.
+
+Our engineering work follows the same principle: understand the real problem, build what is genuinely useful and see the improvement through.
+
+---
+
+## Explore Virtue Technologies
+
+Visit our website for practical guidance, customer stories, white papers and updates covering cyber security, infrastructure, cloud services, classroom technology and education IT.
+
+[**Read our latest news and insights →**](https://www.virtuetechnologies.co.uk/news-updates/)
+
+[**Discuss your technology priorities with our team →**](https://www.virtuetechnologies.co.uk/contact/)
+
+> **Found a potential security issue?**
+> Please contact Virtue Technologies privately rather than publishing sensitive details in a public issue.
 
 ---
 
 <div align="center">
 
-### Working towards the best education outcomes, together.
+### Technology that helps education keep moving.
 
-[**Find out how Virtue Technologies can help →**](https://www.virtuetechnologies.co.uk/contact/)
-
-<br>
+[Website](https://www.virtuetechnologies.co.uk/) ·
+[LinkedIn](https://www.linkedin.com/company/virtue-technologies-limited/) ·
+[News & Insights](https://www.virtuetechnologies.co.uk/news-updates/) ·
+[Contact](https://www.virtuetechnologies.co.uk/contact/)
 
 <sub>Virtue Technologies Limited · Education technology specialists since 2006</sub>
 
